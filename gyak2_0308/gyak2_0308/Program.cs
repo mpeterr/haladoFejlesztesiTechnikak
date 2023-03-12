@@ -36,6 +36,11 @@ Console.WriteLine("Q3. Hány olyan csata volt, ahol a védekező sereg győzött
     .Select(x => x.Value)
     .Count() + " ilyen csata volt\n");
 
+for (int i = 0; i < length; i++)
+{
+
+}
+
 
 
 
