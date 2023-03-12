@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ora_0301", "1_ora_0301\1_ora_0301.csproj", "{C7FDFB32-D5C9-4EFE-A42E-A8A3FAA900AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FDFB32-D5C9-4EFE-A42E-A8A3FAA900AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FDFB32-D5C9-4EFE-A42E-A8A3FAA900AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FDFB32-D5C9-4EFE-A42E-A8A3FAA900AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FDFB32-D5C9-4EFE-A42E-A8A3FAA900AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B321B65D-09AE-48D7-8D76-7DBF96B417D2}
+	EndGlobalSection
+EndGlobal

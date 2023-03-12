@@ -1,0 +1,15 @@
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\bin\Debug\net6.0\gyak2_0308.exe
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\bin\Debug\net6.0\gyak2_0308.deps.json
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\bin\Debug\net6.0\gyak2_0308.runtimeconfig.json
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\bin\Debug\net6.0\gyak2_0308.dll
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\bin\Debug\net6.0\gyak2_0308.pdb
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.csproj.AssemblyReference.cache
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.AssemblyInfoInputs.cache
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.AssemblyInfo.cs
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.dll
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\refint\gyak2_0308.dll
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.pdb
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\gyak2_0308.genruntimeconfig.cache
+C:\Users\hallgato\source\repos\gyak2_0308\gyak2_0308\obj\Debug\net6.0\ref\gyak2_0308.dll

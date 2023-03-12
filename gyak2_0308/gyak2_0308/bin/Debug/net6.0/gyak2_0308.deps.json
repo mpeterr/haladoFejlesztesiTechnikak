@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "gyak2_0308/1.0.0": {
+        "runtime": {
+          "gyak2_0308.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gyak2_0308/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

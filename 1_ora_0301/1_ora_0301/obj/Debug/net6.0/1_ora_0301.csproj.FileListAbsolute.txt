@@ -1,0 +1,15 @@
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\bin\Debug\net6.0\1_ora_0301.exe
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\bin\Debug\net6.0\1_ora_0301.deps.json
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\bin\Debug\net6.0\1_ora_0301.runtimeconfig.json
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\bin\Debug\net6.0\1_ora_0301.dll
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\bin\Debug\net6.0\1_ora_0301.pdb
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.csproj.AssemblyReference.cache
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.AssemblyInfoInputs.cache
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.AssemblyInfo.cs
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.dll
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\refint\1_ora_0301.dll
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.pdb
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\1_ora_0301.genruntimeconfig.cache
+C:\Users\hallgato\source\repos\1_ora_0301\1_ora_0301\obj\Debug\net6.0\ref\1_ora_0301.dll
